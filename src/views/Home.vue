@@ -5,6 +5,7 @@
     <h1><strong>PROYECTO FINAL - MODULO VI</strong></h1>
     <h3><strong>Integrantes</strong></h3>
     <p>Daniel Mauricio Villarte Caucota</p>
+    <p>Sandra Severich Zurita</p>
   </div>
 </template>
 

@@ -1,8 +1,266 @@
 {
   "categorias": [
     {
-      "name": "materiales",
+      "name": "Analgesico",
       "id": 2
+    },
+    {
+      "name": "Anestesico",
+      "id": 3
+    },
+    {
+      "name": "Antibiotico",
+      "id": 4
+    },
+    {
+      "name": "Anticonvulsivante",
+      "id": 5
+    },
+    {
+      "name": "Antidepresivo",
+      "id": 6
+    },
+    {
+      "name": "Antihipertensivo",
+      "id": 7
+    },
+    {
+      "name": "Anticonceptivo",
+      "id": 8
+    },
+    {
+      "name": "Antidiabetico",
+      "id": 9
+    },
+    {
+      "name": "Antihistaminico",
+      "id": 10
+    },
+    {
+      "name": "Antiinflamatorio",
+      "id": 11
+    },
+    {
+      "name": "Antimicotico",
+      "id": 12
+    },
+    {
+      "name": "Inhibidor de bomba de protones",
+      "id": 13
+    },
+    {
+      "name": "Antipiretico",
+      "id": 14
+    },
+    {
+      "name": "Diuretico",
+      "id": 15
+    },
+    {
+      "name": "Antipsicotico",
+      "id": 16
+    }
+  ],
+  "productos": [
+    {
+      "nombre": "Gabapentina 300 mg",
+      "id": 1,
+      "categoriaId": 5,
+      "presentacion": "Tabletas",
+      "laboratorio": "Quimfa",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 3,
+      "status": true
+    },
+    {
+      "nombre": "Citalopram 20 mg",
+      "id": 2,
+      "categoriaId": 6,
+      "presentacion": "Tabletas",
+      "laboratorio": "Quimfa",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 9,
+      "status": true
+    },
+    {
+      "nombre": "Amlodipino 10 mg",
+      "id": 3,
+      "categoriaId": 7,
+      "presentacion": "Tabletas",
+      "laboratorio": "Mintlab",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 4,
+      "status": true
+    },
+    {
+      "nombre": "Omeprazol 20 mg",
+      "id": 4,
+      "categoriaId": 13,
+      "presentacion": "Tabletas",
+      "laboratorio": "Prater",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 2,
+      "status": true
+    },
+    {
+      "nombre": "Tapentadol 100 mg",
+      "id": 5,
+      "categoriaId": 2,
+      "presentacion": "Tabletas",
+      "laboratorio": "Grunenthal",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 8,
+      "status": true
+    },
+    {
+      "nombre": "Losartan 50 mg",
+      "id": 6,
+      "categoriaId": 7,
+      "presentacion": "Tabletas",
+      "laboratorio": "Saleticlab",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 1,
+      "status": true
+    },
+    {
+      "nombre": "Metformina 850 mg",
+      "id": 7,
+      "categoriaId": 9,
+      "presentacion": "Tabletas",
+      "laboratorio": "Quimfa",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 2,
+      "status": true
+    },
+    {
+      "nombre": "Carbamazepina 200 mg",
+      "id": 8,
+      "categoriaId": 5,
+      "presentacion": "Tabletas",
+      "laboratorio": "Chile",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 3,
+      "status": true
+    },
+    {
+      "nombre": "Algifeno compuesto",
+      "id": 9,
+      "categoriaId": 2,
+      "presentacion": "Tabletas",
+      "laboratorio": "Inti",
+      "observacion": "Contiene tramadol clorhidrato y paracetamol, consultar con un medico",
+      "precio": 8,
+      "status": true
+    },
+    {
+      "nombre": "Quetiapina 50 mg",
+      "id": 10,
+      "categoriaId": 16,
+      "presentacion": "Tabletas",
+      "laboratorio": "Megalabs",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 18,
+      "status": true
+    },
+    {
+      "nombre": "Clonazepam 2 mg",
+      "id": 11,
+      "categoriaId": 16,
+      "presentacion": "Comprimidos dispersables",
+      "laboratorio": "Saval",
+      "observacion": "Contiene aspartamo, no administrar a personas que padecen de fenilcetonuria",
+      "precio": 9,
+      "status": true
+    },
+    {
+      "nombre": "Escitalopram 10 mg",
+      "id": 12,
+      "categoriaId": 6,
+      "presentacion": "Tabletas",
+      "laboratorio": "Chile",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 6,
+      "status": true
+    },
+    {
+      "nombre": "Clorfeniramina 4 mg",
+      "id": 13,
+      "categoriaId": 10,
+      "presentacion": "Tabletas",
+      "laboratorio": "Hahnemann",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 1,
+      "status": true
+    },
+    {
+      "nombre": "Hidroclorotiazida 50 mg",
+      "id": 14,
+      "categoriaId": 15,
+      "presentacion": "Tabletas",
+      "laboratorio": "Ningbo Shuangwei",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 1,
+      "status": true
+    },
+    {
+      "nombre": "Paracetamol 1 gr",
+      "id": 15,
+      "categoriaId": 2,
+      "presentacion": "Tabletas",
+      "laboratorio": "Delta",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 1,
+      "status": true
+    },
+    {
+      "nombre": "Pregabalina 75 mg",
+      "id": 16,
+      "categoriaId": 5,
+      "presentacion": "Tabletas",
+      "laboratorio": "Bago",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 5,
+      "status": true
+    },
+    {
+      "nombre": "Ibuprofeno 600 mg",
+      "id": 17,
+      "categoriaId": 14,
+      "presentacion": "Tabletas",
+      "laboratorio": "Chile",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 3,
+      "status": true
+    },
+    {
+      "nombre": "Aspirina 500 mg",
+      "id": 18,
+      "categoriaId": 14,
+      "presentacion": "Tabletas",
+      "laboratorio": "Bayer",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 2,
+      "status": true
+    },
+    {
+      "nombre": "Cefixina 400 mg",
+      "id": 19,
+      "categoriaId": 4,
+      "presentacion": "Tabletas",
+      "laboratorio": "Breskot",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 15,
+      "status": true
+    },
+    {
+      "nombre": "Diclofenaco 100 mg",
+      "id": 20,
+      "categoriaId": 11,
+      "presentacion": "Tabletas",
+      "laboratorio": "Vita",
+      "observacion": "Contiene excipientes, consultar con un medico",
+      "precio": 3,
+      "status": true
     }
   ]
 }
