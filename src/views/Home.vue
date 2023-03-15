@@ -6,6 +6,7 @@
     <h3><strong>Integrantes</strong></h3>
     <p>Daniel Mauricio Villarte Caucota</p>
     <p>Sandra Severich Zurita</p>
+    <p>Rudy Roger Zepita Cayoja</p>
   </div>
 </template>
 

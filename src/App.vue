@@ -24,7 +24,7 @@
             <li
               class="nav-item"
             >
-              <a class="nav-link" aria-current="page" href="#">Productos</a>
+              <a class="nav-link" aria-current="page" href="/productos">Productos</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" aria-current="page" href="/categorias">

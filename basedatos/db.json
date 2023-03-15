@@ -69,8 +69,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Quimfa",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 3,
-      "status": true
+      "precio": 3
     },
     {
       "nombre": "Citalopram 20 mg",
@@ -79,8 +78,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Quimfa",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 9,
-      "status": true
+      "precio": 9
     },
     {
       "nombre": "Amlodipino 10 mg",
@@ -89,8 +87,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Mintlab",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 4,
-      "status": true
+      "precio": 4
     },
     {
       "nombre": "Omeprazol 20 mg",
@@ -99,8 +96,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Prater",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 2,
-      "status": true
+      "precio": 2
     },
     {
       "nombre": "Tapentadol 100 mg",
@@ -109,8 +105,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Grunenthal",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 8,
-      "status": true
+      "precio": 8
     },
     {
       "nombre": "Losartan 50 mg",
@@ -119,8 +114,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Saleticlab",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 1,
-      "status": true
+      "precio": 1
     },
     {
       "nombre": "Metformina 850 mg",
@@ -129,8 +123,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Quimfa",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 2,
-      "status": true
+      "precio": 2
     },
     {
       "nombre": "Carbamazepina 200 mg",
@@ -139,8 +132,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Chile",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 3,
-      "status": true
+      "precio": 3
     },
     {
       "nombre": "Algifeno compuesto",
@@ -149,8 +141,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Inti",
       "observacion": "Contiene tramadol clorhidrato y paracetamol, consultar con un medico",
-      "precio": 8,
-      "status": true
+      "precio": 8
     },
     {
       "nombre": "Quetiapina 50 mg",
@@ -159,8 +150,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Megalabs",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 18,
-      "status": true
+      "precio": 18
     },
     {
       "nombre": "Clonazepam 2 mg",
@@ -169,8 +159,7 @@
       "presentacion": "Comprimidos dispersables",
       "laboratorio": "Saval",
       "observacion": "Contiene aspartamo, no administrar a personas que padecen de fenilcetonuria",
-      "precio": 9,
-      "status": true
+      "precio": 9
     },
     {
       "nombre": "Escitalopram 10 mg",
@@ -179,8 +168,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Chile",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 6,
-      "status": true
+      "precio": 6
     },
     {
       "nombre": "Clorfeniramina 4 mg",
@@ -189,8 +177,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Hahnemann",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 1,
-      "status": true
+      "precio": 1
     },
     {
       "nombre": "Hidroclorotiazida 50 mg",
@@ -199,8 +186,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Ningbo Shuangwei",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 1,
-      "status": true
+      "precio": 1
     },
     {
       "nombre": "Paracetamol 1 gr",
@@ -209,8 +195,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Delta",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 1,
-      "status": true
+      "precio": 1
     },
     {
       "nombre": "Pregabalina 75 mg",
@@ -219,8 +204,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Bago",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 5,
-      "status": true
+      "precio": 5
     },
     {
       "nombre": "Ibuprofeno 600 mg",
@@ -229,8 +213,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Chile",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 3,
-      "status": true
+      "precio": 3
     },
     {
       "nombre": "Aspirina 500 mg",
@@ -239,8 +222,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Bayer",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 2,
-      "status": true
+      "precio": 2
     },
     {
       "nombre": "Cefixina 400 mg",
@@ -249,8 +231,7 @@
       "presentacion": "Tabletas",
       "laboratorio": "Breskot",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 15,
-      "status": true
+      "precio": 15
     },
     {
       "nombre": "Diclofenaco 100 mg",
@@ -259,8 +240,16 @@
       "presentacion": "Tabletas",
       "laboratorio": "Vita",
       "observacion": "Contiene excipientes, consultar con un medico",
-      "precio": 3,
-      "status": true
+      "precio": 3
+    },
+    {
+      "nombre": "ganoderma",
+      "presentacion": "granulado sobre bebible",
+      "laboratorio": "extranjero",
+      "observacion": "no necesita prescripcion medica",
+      "precio": "25",
+      "categoriaId": "12",
+      "id": 21
     }
   ]
 }

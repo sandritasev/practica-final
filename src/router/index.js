@@ -24,6 +24,16 @@ const routes = [
     path: '/categorias/:id/editar',
     name: 'editar_categoria',
     component: () => import(/* webpackChunkName: "about" */ '../views/CategoriaEditar.vue')
+  },
+  {
+    path: '/productos',
+    name: 'productos',
+    component: () => import(/* webpackChunkName: "about" */ '../views/Producto.vue')
+  },
+  {
+    path: '/productos/:id/editar',
+    name: 'editar_producto',
+    component: () => import(/* webpackChunkName: "about" */ '../views/ProductoEditar.vue')
   }
 ]
 
